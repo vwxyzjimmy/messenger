@@ -8,20 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fbsamples/messenger-platform-samples.git"
+    "url": "git+https://git.heroku.com/fb-messenger-vwxyzjimmy.git"
   },
   "author": "Facebook",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.3",
+    "express": "4.16.3",
     "request": "^2.85.0"
   },
   "engines": {
-    "node": "~4.1.2"
+    "node": "10.0.0"
   },
   "bugs": {
     "url": "https://github.com/fbsamples/messenger-platform-samples/issues"
   },
-  "homepage": "https://github.com/fbsamples/messenger-platform-samples#readme"
+  "homepage": "https://github.com/fbsamples/messenger-platform-samples#readme",
+  "devDependencies": {}
 }
